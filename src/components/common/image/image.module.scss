@@ -5,8 +5,7 @@
 }
 
 .img {
-  width: 100%;
-  height: 100%;
+  height: 198px;
 
   &.left {
     object-position: left;
@@ -29,4 +28,5 @@
   &.scaleToFit {
     object-fit: contain;
   }
+  width: 160px;
 }
